@@ -48,7 +48,7 @@ HTML
 CSS
 JavaScript
 ## Here are some screenshots -
-*E-COMMERCE-I
+* E-COMMERCE-I
 ![Home Page](https://snipboard.io/L2h0wf.jpg)
 * E-COMMERCE-II
 ![Home Page](https://snipboard.io/hWoAak.jpg)
